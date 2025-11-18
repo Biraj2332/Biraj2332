@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Biraj Ghorasaine</h1>
-<h3 align="center">🚀 Full Stack Developer (MERN) | Trainee at Cloudtech Services | Tech Enthusiast from Nepal 🇳🇵</h3>
+<h3 align="center">🚀 Full Stack Developer | Trainee at Cloudtech Services | Tech Enthusiast from Nepal 🇳🇵</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Biraj2332&label=Profile%20views&color=0e75b6&style=flat" alt="Biraj2332" />
