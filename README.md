@@ -13,9 +13,9 @@
 
 ### 💡 About Me
 - 🔭 Currently working/training at **Cloudtech Services**  
-- 🌱 Exploring the **MERN Stack (MongoDB, Express, React, Node.js)**  
+- 🌱 Exploring the **MERN Stack (MongoDB, Express, React, Node.js), Nestjs**  
 - 👯 Open to collaboration on **open-source and beginner-friendly full-stack projects**  
-- 💬 Ask me about **React, Express, MongoDB, Node.js, Docker, and API development**  
+- 💬 Ask me about **React, Express, MongoDB, Node.js, Nestjs, PostgreSQL,MySQL, Docker, and API development**  
 - 🤝 Looking for help with **deployment and real-world project contributions**  
 - 📫 Reach me at:
   - **birajghorasaine@cloudtechservice.com** (Work)
