@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Biraj Ghorasaine</h1>
 <h3 align="center">Full Stack Developer & Software Engineer from Nepal 🇳🇵</h3>
 
-<!-- PROFILE BADGES - FIXED -->
+<!-- PROFILE BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Biraj2332&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Biraj2332?label=Followers&style=flat-square&color=blue" alt="Followers" />
@@ -16,7 +16,7 @@
 <!-- QUICK CONNECT -->
 <p align="center">
   <a href="https://www.linkedin.com/in/birajghorasaine/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B7?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Biraj2332">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -101,27 +101,33 @@
     <th width="400">Progress</th>
   </tr>
   <tr>
-    <td>Python Fundamentals</td>
+    <td>🐍 Python Fundamentals</td>
     <td>
-      <img src="https://progress-bar.dev/80/?width=300&color=9146FF" />
+      <img src="https://geps.dev/progress/80" width="300" alt="80%" />
     </td>
   </tr>
   <tr>
-    <td>NumPy & Pandas</td>
+    <td>📊 NumPy & Pandas</td>
     <td>
-      <img src="https://progress-bar.dev/60/?width=300&color=00C7B7" />
+      <img src="https://geps.dev/progress/60" width="300" alt="60%" />
     </td>
   </tr>
   <tr>
-    <td>Machine Learning Basics</td>
+    <td>📈 Machine Learning Basics</td>
     <td>
-      <img src="https://progress-bar.dev/30/?width=300&color=FF6B6B" />
+      <img src="https://geps.dev/progress/30" width="300" alt="30%" />
     </td>
   </tr>
   <tr>
-    <td>TensorFlow</td>
+    <td>🧠 TensorFlow</td>
     <td>
-      <img src="https://progress-bar.dev/10/?width=300&color=FFA500" />
+      <img src="https://geps.dev/progress/10" width="300" alt="10%" />
+    </td>
+  </tr>
+  <tr>
+    <td>📊 Data Visualization</td>
+    <td>
+      <img src="https://geps.dev/progress/40" width="300" alt="40%" />
     </td>
   </tr>
 </table>
@@ -144,7 +150,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Biraj2332&theme=radical&no-frame=false&no-bg=false&margin-w=15&row=2&column=4" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Biraj2332&theme=radical&no-frame=true&margin-w=15&row=2&column=4" width="90%" />
 </p>
 
 ---
@@ -160,11 +166,7 @@
 ## 💭 Developer Quotes
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
-</p>
-
-<p align="center">
-  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
+  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</i>
 </p>
 
 <p align="center">
@@ -173,6 +175,10 @@
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</p>
+
+<p align="center">
+  <i>"Simplicity is the soul of efficiency." – Austin Freeman</i>
 </p>
 
 ---
@@ -214,10 +220,10 @@
 ## 🎯 Current Focus
 
 <p align="center">
-  🔥 Building scalable full-stack applications<br/>
-  📚 Deep diving into Machine Learning and AI<br/>
-  🤝 Open to collaborations on interesting projects<br/>
-  🌱 Always learning and growing
+  🔥 Building scalable full-stack applications with MERN stack<br/>
+  📚 Deep diving into Machine Learning and AI fundamentals<br/>
+  🤝 Open to collaborations on interesting full-stack projects<br/>
+  🌱 Always learning and growing as a developer
 </p>
 
 ---
@@ -225,10 +231,10 @@
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-* 🎉 Working on full-stack MERN application
-* 🚀 Learning Python for Data Science
-* 📖 Exploring Machine Learning algorithms
-* 🔧 Improving backend architecture with NestJS
+* 🎉 Working on full-stack MERN application with Docker
+* 🚀 Learning Python for Data Science and Machine Learning
+* 📖 Exploring Machine Learning algorithms with scikit-learn
+* 🔧 Improving backend architecture with NestJS and PostgreSQL
 <!--END_SECTION:activity-->
 
 ---
@@ -239,6 +245,5 @@
 ```text
 JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░   55.0% 
 TypeScript   5 hrs 45 mins   █████▒░░░░░░░░░░░░░░░   25.0% 
-Python       2 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░   11.0% 
+Python       3 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░   15.0% 
 SQL          1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░    5.0% 
-Other        1 hr            █░░░░░░░░░░░░░░░░░░░░    4.0% 
